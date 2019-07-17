@@ -85,14 +85,9 @@ header {
     text-decoration: none;
 }
 
-.active {
-    display: none;
-}
+
 @media screen and (max-width: 1000px)
-{
-    .active {
-        display: block;
-    }   
+{ 
     .header-right ul {
         display: none;
     }
